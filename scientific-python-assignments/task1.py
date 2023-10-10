@@ -3,7 +3,7 @@ import re
 
 # Arguments
 tasklist = ["32 + 698", "3801 - 2", "45 + 43", "123 + 49"]
-dosums = False
+dosums = True
 
 # Elements
 operators = []
